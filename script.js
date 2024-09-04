@@ -8,67 +8,67 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const perguntas = [
         {
-            enunciado: "Qual das seguintes opções é uma galáxia espiral?",
+            enunciado: "Qual ingrediente é essencial para a preparação de um prato típico chamado "paella" em sua versão tradicional?",
             alternativas: [
                 {
-                    texto: "a)Galáxia de Andrômeda!",
-                    afirmacao: "para bem você acertou👏. "
+                    texto: "Peito de frango!",
+                    afirmacao: "você errou. "
                 },
                 {
-                    texto: "b)Galáxia de Messier 87!",
-                    afirmacao: "você errou."
+                    texto: "Frutos do mar!",
+                    afirmacao: "para bem você acertou👏."
                 }
             ]
         },
         {
-            enunciado: "Qual desses corpos celestes é um planeta do nosso sistema solar?",
+            enunciado: "Qual dessas opções é uma especialidade francesa que utiliza fígado de pato ou ganso?",
             alternativas: [
                 {
-                    texto: "a) Alfa Centauri.",
+                    texto: "Coq au Vin.",
                     afirmacao: "na próxima você consegue ."
                 },
                 {
-                    texto: "b) Saturno.",
+                    texto: "Foie Gras.",
                     afirmacao: "eu sabia que você eria acertar 😄."
                 }
             ]
         },
         {
-            enunciado: "Qual é o nome da nossa galáxia?",
+            enunciado: "Em que prato italiano é comum utilizar queijo feito de leite de búfala?",
             alternativas: [
                 {
-                    texto: "a) Via Láctea.",
-                    afirmacao: "você é inteligente ❤️."
+                    texto: "Lasagna.",
+                    afirmacao: "não fica triste na próxima você acerta😕."
                 },
                 {
-                    texto: "b) Galáxia de Andrômeda.",
-                    afirmacao: "não fica triste na próxima você acerta😕."
+                    texto: "Mozzarella di Bufala.",
+                    afirmacao: "você é inteligente ❤️."
                 }
             ]
         },
         {
-            enunciado: "Qual desses é um buraco negro supermassivo??",
+            enunciado: "Qual tipo de peixe é utilizado para preparar o tradicional "sushi" japonês?",
             alternativas: [
                 {
-                    texto: "a) Buraco Negro de Sagittarius A*.",
+                    texto: "Salmão.",
                     afirmacao: "você acertou continua assim."
                 },
                 {
-                    texto: "b) Buraco Negro de Proxima Centauri.",
+                    texto: "Atum.",
                     afirmacao: "resposta errada😬!"
                 }
             ]
         },
         {
-            enunciado: "Qual dessas estrelas é mais quente?? ",
+            enunciado: "Qual tipo de carne é tradicionalmente usada para fazer "prosciutto" italiano? ",
             alternativas: [
                 {
-                    texto: "a) Estrela de Barnard.",
-                    afirmacao: "wrong answer🥲."
+                    texto: "Carne de porco.",
+                    afirmacao: "right answer😄👏."
                 },
                 {
-                    texto: "b) Estrela Azul.",
-                    afirmacao: "right answer😄👏. "
+                    texto: "Carne de cordeiro.",
+                    afirmacao: "wrong answer🥲. "
                 }
             ]
         },
